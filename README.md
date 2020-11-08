@@ -2,29 +2,33 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+[Auth0](https://auth0.com/)
+[Next.js](https://nextjs.org/)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Author
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✔ Eka Prasetia 🤵
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<a href="https://www.ekaprasetia.com/">
+  <img src="https://img.shields.io/badge/Writer-Blog-orange" alt="Blog" />
+</a>
 
-## Learn More
+<a href="https://twitter.com/dannyeka">
+  <img src="https://img.shields.io/badge/Tweet-Twitter-blue" alt="Twitter" />
+</a>
 
-To learn more about Next.js, take a look at the following resources:
+<a href="mailto:ekaone3033@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ekaone3033@gmail.com-yellow" alt="Email" />
+</a>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✔ Collection my App
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👉🛠 Find example all my [Scratch App](https://github.com/ekaone)
 
-## Deploy on Vercel
+✔ Community
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+I am author for two communities in Indonesia
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
+- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
+- NextJS Indonesia [Next.js-ID](https://github.com/NextJS-Indonesia)
